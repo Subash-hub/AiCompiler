@@ -1,0 +1,1 @@
+A tool that helps beginner developers by translating complex and cryptic code issues into clear and concise explanations. It also provides suggestions for improving the code, making debugging easier and learning faster.
